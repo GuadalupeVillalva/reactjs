@@ -1,0 +1,24 @@
+.navBarContainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 0rem 2rem;
+    align-items: center;
+    background-color: pink;
+}
+
+h1{
+    color: rgb(54, 27, 12);;
+}
+.navBarContainer a {
+    color: rgb(54, 27, 12);
+    text-decoration: none;
+    margin-left: 25px;
+}
+
+.linksContainer{
+    display: flex;
+}
+
+.cartContainer{
+
+}
